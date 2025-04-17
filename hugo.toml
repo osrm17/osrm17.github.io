@@ -1,0 +1,9 @@
+baseURL = 'https://osrm17.github.io/'
+languageCode = 'en-us'
+title = 'Notes to Walk Home By'
+theme = 'dark-theme-editor'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
